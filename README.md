@@ -1,4 +1,4 @@
-# LinkedIn Job Scraper
+# LinkedIn Scraper
 
 Automatically scrapes job postings from LinkedIn and logs them to a structured Google Sheet — complete with filters, timestamps, and customization for any role or region.
 
